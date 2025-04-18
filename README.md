@@ -36,6 +36,10 @@ A Chrome extension that automatically sends [Tonton](https://tonton.amaneku.com/
 3. Schedule information will be extracted and processed according to the configuration
 
 
+## Browser Compatibility
+
+While this extension is primarily tested on Chrome, it uses [webextension-polyfill](https://github.com/mozilla/webextension-polyfill) which should make it compatible with other modern browsers that support Web Extensions (though this hasn't been extensively tested).
+
 ## Requirements
 
 - 
